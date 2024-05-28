@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "./public/images/pizza.jpg",
+    "name": "Pizza",
+    "category": "dinner",
+    "price": 1999,
+    "description": "Pizza is an iconic dish beloved worldwide for its irresistible combination of flavors and textures. With its origins tracing back to Italy, pizza has evolved into a culinary masterpiece enjoyed by people of all ages."
+  },
+  {
+    "id": 2,
+    "image": "./public/images/burger.jpg",
+    "name": "Burger",
+    "category": "lunch",
+    "price": 1299,
+    "description": "A burger is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun. It is often served with cheese, lettuce, tomato, bacon, onion, pickles, and condiments such as mustard, mayonnaise, ketchup, and relish."
+  },
+  {
+    "id": 3,
+    "image": "./public/images/cornflakes.jpg",
+    "name": "Cornflakes",
+    "category": "breakfast",
+    "price": 499,
+    "description": "Cornflakes are a popular breakfast cereal made from toasted flakes of corn. They are typically served with milk and sugar."
+  },
+  {
+    "id": 4,
+    "image": "./public/images/pasta.jpg",
+    "name": "Pasta",
+    "category": "dinner",
+    "price": 1599,
+    "description": "Pasta is a type of Italian food typically made from an unleavened dough of wheat flour mixed with water or eggs, and formed into sheets or other shapes. It is usually cooked by boiling or baking."
+  },
+  {
+    "id": 5,
+    "image": "./public/images/eggs.jpg",
+    "name": "Eggs",
+    "category": "breakfast",
+    "price": 299,
+    "description": "Eggs are a versatile food that can be cooked in many different ways. They are a great source of protein and essential nutrients."
+  },
+  {
+    "id": 6,
+    "image": "./public/images/fried chicken piece.jpg",
+    "name": "Fried Chicken Piece",
+    "category": "lunch",
+    "price": 799,
+    "description": "Fried chicken is a dish consisting of chicken pieces that have been coated in a seasoned batter and deep-fried until crisp and golden brown."
+  }
+]
